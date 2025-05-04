@@ -46,13 +46,3 @@ I’m currently pursuing a B.Tech in Electronics and Computer Engineering, with 
 
 📧 Email: shreyaskrishna75111@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/shreyas-krishna-581229300](https://www.linkedin.com/in/shreyas-krishna-581229300/)
-
----
-
-## 💡 Favorite Quote
-
-> “Innovation is seeing what everybody has seen and thinking what nobody has thought.” – Dr. Albert Szent-Györgyi
-
----
-
-![Shreyas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shreyaskrishna75111&show_icons=true&theme=radical)
