@@ -4,18 +4,18 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 I’m currently pursuing a B.Tech in Electronics and Computer Engineering, with a passion for building impactful tech solutions in the fields of **IoT**, **AI**, and **Full Stack Development**.
 
-- 👨‍🔬 Exploring technologies in Web Development, Machine Learning, and Embedded Systems
-- 🌱 Currently learning **React**, **MongoDB**, and **TensorFlow**
-- 🚀 Actively building projects that solve real-world problems
-- 🤝 Open to collaboration, internships, and team-based innovations
+-  Exploring technologies in Web Development, Machine Learning, and Embedded Systems
+-  Currently learning **React**, **MongoDB**, and **TensorFlow**
+-  Actively building projects that solve real-world problems
+-  Open to collaboration, internships, and team-based innovations
 
 ---
 
-## 💼 Projects
+##  Projects
 
 ### 🔹 [FilterPro](https://github.com/Shreyaskrishna75111/filterpro)
 > A subscription-based smart water purifier system with real-time MQTT control and database integration.
@@ -33,7 +33,7 @@ I’m currently pursuing a B.Tech in Electronics and Computer Engineering, with 
 
 ---
 
-## 🛠️ Skills & Tools
+##  Skills & Tools
 
 **Languages**: Python, JavaScript, C/C++  
 **Web Tech**: HTML, CSS, React, Node.js, Express  
@@ -42,7 +42,7 @@ I’m currently pursuing a B.Tech in Electronics and Computer Engineering, with 
 
 ---
 
-## 📫 Contact
+##  Contact
 
 📧 Email: shreyaskrishna75111@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/shreyas-krishna-581229300](https://www.linkedin.com/in/shreyas-krishna-581229300/)
