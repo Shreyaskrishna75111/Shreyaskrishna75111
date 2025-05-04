@@ -44,7 +44,7 @@ I’m currently pursuing a B.Tech in Electronics and Computer Engineering, with 
 
 ## 📫 Contact
 
-📧 Email: [your-email@example.com]  
+📧 Email: shreyaskrishna75111@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/shreyas-krishna-581229300](https://www.linkedin.com/in/shreyas-krishna-581229300/)
 
 ---
